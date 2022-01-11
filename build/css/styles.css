@@ -9,7 +9,7 @@
     html,body{
         height: 100vh;
         font-size:62.5%;
-        background:url("/img/background.png");
+        background:url("/build/img/background.png");
         background-position: center;
         background-size: cover;
     }
