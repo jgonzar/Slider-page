@@ -1,5 +1,5 @@
 # Slider-page
-A simple, modern landing page I builded with a free Youtube course. The challenge was to build the slider feature of the page with JS.
+A simple, modern landing page I built with a free Youtube course. The challenge was to build the slider feature of the page with JS.
 
 You can see the completed website here: https://slider-page.web.app/
 
